@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d4d0d0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #d10000;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+.product {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 5px;   
+}
+
+img {
+    max-width: 100%;
+    border-radius: 5px;
+    height: auto;
+}
+
+.email-field {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color:#4CAF50;
+    color: #fff;
+    padding: auto;
+    border-radius: 1px;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 1px;
+    text-align: center;
+    color: #fff;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
